@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arman975
-- 👀 I’m interested in programming and research in medicinal field
+- 👀 I’m interested in programming and research in ML
 - 🌱 I’m currently learning AI/ML, biology  
 - 💞️ I’m looking to collaborate on various global projects 
 - 📫 How to reach me ... mail id :- armansayyed632@gmail.com
